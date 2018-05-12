@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7691'
     url: http://www.gutenberg.org/2009/agents/7691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17912#Kommunistinen-yhteiskunta-vuonna-2000Jatkoa-ja-vastaus-Edward-Bellamyn-romaaniin--Vuonna-2000_
 gutenberg_issued: '2006-03-04'
 gutenberg_type: Text
 identifiers:
